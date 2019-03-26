@@ -1,4 +1,9 @@
 La primera version del archivo
+Segunda linea en el branch "master"
 
 Esta linea fue agregada desde el branch "feature1
 SEgunda linea agregada desde el branch "Feature1"
+
+Esta linea fue agregada en el branch "Feature2"
+
+
